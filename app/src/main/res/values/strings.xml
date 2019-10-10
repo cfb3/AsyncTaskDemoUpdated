@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AsyncTaskDemoUpdated</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button_click_me_click">Click Me!</string>
+    <string name="done_done">Done</string>
+</resources>
